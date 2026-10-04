@@ -1,7 +1,7 @@
 import { ArrowUpRight, Mail } from 'lucide-react'
 import { Section } from '@/components/section'
 
-const email = 'mohammedfaizanf@dupage.edu'
+const email = 'faizan72229@gmail.com'
 
 export function Contact() {
   return (

@@ -20,7 +20,7 @@ export function Hero() {
         </p>
         <div className="mt-10 flex flex-col gap-3 sm:flex-row">
           <a
-            href="mailto:mohammedfaizanf@dupage.edu"
+            href="mailto:faizan72229@gmail.com"
             className="inline-flex h-11 items-center justify-center gap-2 rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
           >
             <Mail className="size-4" aria-hidden="true" />
